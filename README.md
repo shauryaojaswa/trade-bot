@@ -17,5 +17,5 @@ Added a mockGetStockPrice function that generates random stock prices around a b
 ## How to Run
 
 1. Install dependencies:
-2. run node trading-bot.js
+2. run node trade-bot.js
    
